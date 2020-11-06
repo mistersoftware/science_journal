@@ -18,7 +18,7 @@ N. | Nombre | Enlace | Observación |
 16	|	Jenny Catherine Forero Moreno 	|		|		|
 17	|	Brayan Alexander Cardozo Salcedo	|		|		|
 18	|	Victor Emmanuel Ortuño Tolibia 	|		|		|
-19	|	Luisca	|	https://platzi.com/tutoriales/1444-pensamiento-logico/7873-science-journal-de-luisca/	|		|
+19	|	Luisca	|	https://platzi.com/tutoriales/1444-pensamiento-logico/7873-science-journal-de-luisca/	|	☑️	|
 20	|	Ignacio Crespo	|	https://www.notion.so/Mi-Science-Journal-Ignacio-Crespo-68a0fed3267946019256858c230432c5	|	sin acceso	|
 21	|	Katherine Ortega Ramos	|		|		|
 22	|	Harrinson Quintero	|	https://www.notion.so/Science-Journal-by-Harrinson-Q-d39e7dfb8cb24e4e869b66ec91eab047	|	☑️	|
