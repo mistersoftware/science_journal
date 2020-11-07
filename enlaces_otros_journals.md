@@ -69,10 +69,12 @@ N. | Nombre | Enlace | Observación |
 67	|	Andrea Paola García	|	https://www.notion.so/Math-Academy-922616d466f14a18b0784d3f3718416b	|		|
 68	|	Angelito Vásquez	|	https://www.notion.so/Angelito-s-Science-Journal-2752d138120d411aaf46cb69815d568a	|		|
 69	|	Faustino Correa	|	https://www.notion.so/MATH-ACADEMY-PLATZI-FAUSTINO-CORREA-254f722e2f3f45cabdbe5f96f880444a	|		|
-70	|	Robinnsson Cifuentes Ramírez	|	https://matematicasen7semanas.blogspot.com/2020/11/reto-matematicas-en-7-semanas-science.html	|	☑️ colo de texto	|
+70	|	Robinnsson Cifuentes Ramírez	|	https://matematicasen7semanas.blogspot.com/2020/11/reto-matematicas-en-7-semanas-science.html	|	☑️ color de texto	|
 71	|	Francisco ecatl melo valle	|	https://www.notion.so/Science-Journal-2a94a36b56404e42a38c273ee92f9a63	|		|
 72	|	Jael Castillo	|		|		|
 73	|	Juan Pablo Neira Álvarez	|	https://www.notion.so/Science-Journal-4b6b8163c2214b3a8adce337ee082587	|	☑️	|
 74	|	Luis Angel García Ortíz	|	https://www.notion.so/Math-Academy-c43bf7da78c04931a830e30cfbb14b02	|		|
 75	|	Fabricio Ezequiel Rodríguez Aguirre	|	https://sciencejournalfr.blogspot.com/	|	☑️	|
+76	|	Leidy Johana Oviedo Martinez	|		|		|
+77	|	Javier Andrés Quiroga Torres	|	https://www.notion.so/My-Science-Journal-Math-Academy-6fcd67dbcc45423696be5cccfca3ea09|	Sin acceso	|
 
