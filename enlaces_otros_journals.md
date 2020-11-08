@@ -1,4 +1,6 @@
-N. | Nombre | Enlace | Observación |
+[Listado oficial en Notion](https://www.notion.so/Math-Academy-Repository-21c5d159de0c4a358209f236f32dec71)
+
+. | Nombre | Enlace | Observación |
 --- | --- | --- |  --- | 
 0 | Macarena Guzmán |	https://www.notion.so/Science-journal-38968022dcd94b6490d070ce0336c2f0 | Sin acceso |
 0 | Carlos Alfredo Soria	| | |
