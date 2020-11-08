@@ -31,7 +31,7 @@ N. | Nombre | Enlace | Observación |
 25	|	Ignacio Nicolas Basilio Buracco	|	https://twitter.com/S_J_IgnacioBasi	|	☑️	|
 26	|	Isabel Yepes	|		|		|
 27	|	🙈 Daniel Franco Meneses	|	https://www.mirincon.me/	|	☑️	|
-28	|	Beatriz Justo	|	https://www.notion.so/3f8db97fc98c4ca68551ca3e49d8dc14?v=10721a9489ad48c0888b8b3956222a2a	|		|
+28	|	Beatriz Justo	|	https://www.notion.so/3f8db97fc98c4ca68551ca3e49d8dc14?v=10721a9489ad48c0888b8b3956222a2a	|	solo diploma	|
 29	|	Camila Arancibia Faúndez	|	https://www.instagram.com/camilupng/	|		|
 30	|	Benjamin Renzo Llauca Torres	|	https://www.notion.so/Math-Academy-e57c5ab05c574c6994826db34bda624f	|	☑️	|
 31	|	Paola Rossi	|	https://www.notion.so/Science-Journal-d8382c69a40d44cdbca7f45b8f683801	|	sin acceso	|
