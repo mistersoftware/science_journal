@@ -1,8 +1,8 @@
 N. | Nombre | Enlace | Observación |
 --- | --- | --- |  --- | 
-0 | Macarena Guzmán |	https://www.notion.so/Science-journal-38968022dcd94b6490d070ce0336c2f0 | |
+0 | Macarena Guzmán |	https://www.notion.so/Science-journal-38968022dcd94b6490d070ce0336c2f0 | Sin acceso |
 0 | Carlos Alfredo Soria	| | |
-0 | René González	|	https://www.notion.so/Science-Journal-1587bc3fe7e041c0a45406f336b72ade | |
+0 | René González	|	https://www.notion.so/Science-Journal-1587bc3fe7e041c0a45406f336b72ade | ☑️ |
 0 | Herberth Daniel Saravia Lemus	|	https://docs.google.com/document/d/12_nWBeOqEWdDFpCgmanWJ_CVY29eXm4U89Oobir6i-s/edit?usp=sharing | |
 1	|	Ivan Gabriel Lezcano	|	https://docs.google.com/document/d/1IUS2eTJlm0xMKEHjGGAq3-3TV82CJwTIoWr9Z1a8iWw/edit?usp=sharing	|	☑️	|
 2	|	David Cobo Cohen	|	https://twitter.com/CohenCobo	|		|
@@ -82,4 +82,4 @@ N. | Nombre | Enlace | Observación |
 76	|	Leidy Johana Oviedo Martinez	|		|		|
 77	|	Javier Andrés Quiroga Torres	|	https://www.notion.so/My-Science-Journal-Math-Academy-6fcd67dbcc45423696be5cccfca3ea09|	Sin acceso	|
 78	|	Harold Giovanny Uribe Romero	|	https://docs.google.com/document/d/1t34uC9DMoZCkpCwZKXn2heiG8xw3yMSIlkCh72kOM60/edit?usp=sharing | |
-79	|	Eduardo Hoppenstedt Orellana	|	https://www.notion.so/Math-Academy-Science-Journal-cb1d21d544f64da5aff1df2310565bfb | |
+79	|	Eduardo Hoppenstedt Orellana	|	https://www.notion.so/Math-Academy-Science-Journal-cb1d21d544f64da5aff1df2310565bfb | ☑️ |
