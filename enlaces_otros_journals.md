@@ -71,7 +71,7 @@ N. | Nombre | Enlace | Observación |
 65	|	 	|		|		|
 66	|	Robert Charca Cueva	|	https://www.notion.so/My-Science-Journal-925b728b3d584484adda0441756cd667	|	☑️	|
 67	|	Andrea Paola García	|	https://www.notion.so/Math-Academy-922616d466f14a18b0784d3f3718416b	|		|
-68	|	Angelito Vásquez	|	https://www.notion.so/Angelito-s-Science-Journal-2752d138120d411aaf46cb69815d568a	|		|
+68	|	Angelito Vásquez	|	https://www.notion.so/Angelito-s-Science-Journal-2752d138120d411aaf46cb69815d568a	|	☑️		|
 69	|	Faustino Correa	|	https://www.notion.so/MATH-ACADEMY-PLATZI-FAUSTINO-CORREA-254f722e2f3f45cabdbe5f96f880444a	|		|
 70	|	Robinnsson Cifuentes Ramírez	|	https://matematicasen7semanas.blogspot.com/2020/11/reto-matematicas-en-7-semanas-science.html	|	☑️ color de texto	|
 71	|	Francisco ecatl melo valle	|	https://www.notion.so/Science-Journal-2a94a36b56404e42a38c273ee92f9a63	|		|
