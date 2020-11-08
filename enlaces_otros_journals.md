@@ -12,7 +12,7 @@ N. | Nombre | Enlace | Observación |
 6	|	Ginna Mora 	|	https://twitter.com/mora_ginna	|		|
 7	|	Devi Amaolo	|	https://docs.google.com/document/d/1ec1CODQ92SkqJVH98RIqrzpSKnZhqWhQnznQmTjho40/edit?usp=sharing	|	☑️	|
 8	|	Juan Heis	|	https://www.notion.so/Science-Journal-Juan-1b568b6f0ff94a499ffd131e8cb38d6f	|	sin acceso	|
-9	|	Dylan Torres Rodríguez	|	https://www.notion.so/Dylan-s-Science-Journal-05857feec2df4efd91a173bdc7696fbe	|		|
+9	|	Dylan Torres Rodríguez	|	https://www.notion.so/Dylan-s-Science-Journal-05857feec2df4efd91a173bdc7696fbe	|	☑️		|
 10	|	Bryan Gonzalez	|	https://www.notion.so/brxvn/Math-Academy-180544e70c4e4eacbc697d816887ae5e	|	☑️	|
 11	|	Santiago Calle	|		|		|
 12	|	Ismael López	|		|		|
