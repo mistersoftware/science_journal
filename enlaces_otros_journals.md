@@ -7,7 +7,7 @@ N. | Nombre | Enlace | Observación |
 1	|	Ivan Gabriel Lezcano	|	https://docs.google.com/document/d/1IUS2eTJlm0xMKEHjGGAq3-3TV82CJwTIoWr9Z1a8iWw/edit?usp=sharing	|	☑️	|
 2	|	David Cobo Cohen	|	https://twitter.com/CohenCobo	|		|
 3	|	Gael Treviño Prieto	|	https://twitter.com/iamgaeltpp	|		|
-4	|	Federico Upegui Restrepo	|	https://docs.google.com/document/d/1ZmUQFN5StZfB0RnAKNawqAhcFwz-yLiteQq7Noq7gXU/edit?usp=sharing	|		|
+4	|	Federico Upegui Restrepo	|	https://docs.google.com/document/d/1ZmUQFN5StZfB0RnAKNawqAhcFwz-yLiteQq7Noq7gXU/edit?usp=sharing	|	solo diploma	|
 5	|	Max Albert Ponce Sanchez	|	https://docs.google.com/document/d/1JI9yBFrGql5BGYZh5IyWiFOOnDB1eOLrPlWs0zprnec/edit?usp=sharing	|		|
 6	|	Ginna Mora 	|	https://twitter.com/mora_ginna	|		|
 7	|	Devi Amaolo	|	https://docs.google.com/document/d/1ec1CODQ92SkqJVH98RIqrzpSKnZhqWhQnznQmTjho40/edit?usp=sharing	|	☑️	|
